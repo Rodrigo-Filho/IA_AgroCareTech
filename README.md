@@ -136,6 +136,10 @@ Desenvolvemos uma solução que combina inteligência artificial e IoT para moni
 2. **RFID de Longo Alcance**: Implementar RFID com maior alcance para facilitar a identificação sem necessidade de proximidade.
 3. **Ampliar o Dataset**: Parcerias com fazendas locais para coletar imagens variadas, visando melhorar a precisão da identificação facial.
 
+## RT2000
+
+[Acesse o script](IOT_AgroCareTech.ino)
+
 ## Refêrencias para realizar o script do hardware RT2000
 
 [Vídeo para configuração do RFID](https://youtu.be/oauQypVN4UQ?si=k8hDlWbXcs7pCVTJ)
