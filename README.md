@@ -109,3 +109,42 @@ Os dados utilizados no projeto estão disponíveis no Google Drive.
 
 [Acesse a base de dados](https://drive.google.com/drive/folders/1-GHO1VJjlIBcHiDS4fiGCRT-bWkXZbso?usp=sharing)
 
+# Sprint 4
+
+## Quem Somos
+
+Na **AgroCare Tech**, unimos tecnologia e agropecuária para entregar soluções inovadoras que beneficiem tanto os produtores quanto o bem-estar animal. Nossa missão é fornecer uma ferramenta de monitoramento e diagnóstico que facilite a gestão de saúde animal e promova práticas sustentáveis. Trabalhamos para empoderar agricultores com análises precisas, diagnósticos rápidos e integração com profissionais especializados.
+
+## Desafio
+
+O problema identificado é a perda de gado devido a doenças que afetam a produtividade e geram prejuízos significativos para os agropecuaristas. A detecção tardia de doenças como TBP, Brucelose e Febre Aftosa dificulta a recuperação dos animais e reduz a competitividade do rebanho, com implicações econômicas e limitações no acesso a mercados internacionais.
+
+## Proposta
+
+Desenvolvemos uma solução que combina inteligência artificial e IoT para monitoramento de saúde animal. Utilizando um protótipo IoT com sensores RFID e de temperatura, identificamos individualmente cada bovino e capturamos dados fisiológicos em tempo real. A IA detecta sinais de doenças cutâneas, enquanto o sensor de temperatura monitora condições internas, gerando alertas para o dono no aplicativo da AgroCare Tech. Em casos críticos, o produtor é orientado a buscar veterinários próximos, com avaliações e disponibilidade, e pode acessar informações detalhadas sobre as doenças detectadas por meio de uma IA generativa.
+
+## Alternativas de Solução
+
+- Utilização de **chips RFID** para identificação individual de cada animal.
+- **Sensores de temperatura sem contato** para monitoramento contínuo.
+- **Telemedicina veterinária**, permitindo consultas remotas em casos graves.
+- Plataforma para treinamento de funcionários e acesso a dados sobre doenças.
+
+## Aprimoramentos Futuros
+
+1. **Sensor Infravermelho MLX90614**: Substituir o DHT22 por um sensor infravermelho para leituras precisas de temperatura corporal sem contato, essencial para o monitoramento em movimento dos animais.
+2. **RFID de Longo Alcance**: Implementar RFID com maior alcance para facilitar a identificação sem necessidade de proximidade.
+3. **Ampliar o Dataset**: Parcerias com fazendas locais para coletar imagens variadas, visando melhorar a precisão da identificação facial.
+
+## Refêrencias para realizar o script do hardware RT2000
+
+[Vídeo para configuração do RFID](https://youtu.be/oauQypVN4UQ?si=k8hDlWbXcs7pCVTJ)
+
+
+[Vídeo para configuração da família de sensores DHT](https://youtu.be/-bVEFiogrBc?si=TzyZNAVT-ft44Dn0)
+
+## Vídeo da Sprint 4
+
+[Assista à apresentação no YouTube](https://youtu.be/TFgd6HodTgg)
+
+
